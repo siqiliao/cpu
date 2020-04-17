@@ -1,0 +1,2 @@
+# cpu
+copy_stone
